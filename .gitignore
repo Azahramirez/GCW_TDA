@@ -1,2 +1,6 @@
 /data/noisy_signals.npy
 /data/labels.npy
+*.npy
+*.keras
+*.joblib
+*.pkl

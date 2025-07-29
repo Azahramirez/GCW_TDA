@@ -21,3 +21,7 @@ This notebook generates the persistance image of the Fourier Transform of the wa
 ## 5Convolutional_TDA.ipynb
 
 In this notebook we generate a CNN to predict whether the persistance image of the FFT of a wave is related to a GW or just noise
+
+tensorflow==2.16.1
+tensorflow-intel==2.16.1
+tensorflow-io-gcs-filesystem==0.31.0
